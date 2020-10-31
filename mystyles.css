@@ -19,25 +19,25 @@ margin:20px;
 order: 1;
 margin-left: 420px;
 }
-#section-one{
+#section_one{
 
 }
-#section-two{
+#section_two{
 
 }
-#section-three{
+#section_three{
 
 }
-#section-four{
+#section_four{
 
 }
-#section-five{
+#section_five{
 
 }
-#section-six{
+#section_six{
 
 }
-#section-seven{
+#section_seven{
 
 }
 .main-section{
@@ -49,11 +49,11 @@ border: 1px solid #343434;
 body{
 
 }
-h1{
-text-align: center;
-}
-h2{
 
+header{
+ text-align: center;
+ font-size: 20px;
+ 
 }
 p{
 
